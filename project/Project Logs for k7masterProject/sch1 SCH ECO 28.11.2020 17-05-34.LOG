@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=DA1 Old Footprint=IC103_2 New Footprint=IC103
+Change Component Footprint: Designator=DA6 Old Footprint=IC103_2 New Footprint=IC103
+Change Component Comment: Designator=VD1 Old Comment=* New Comment=Diode 1
+Change Component Comment: Designator=VD5 Old Comment=* New Comment=Diode 1
+Change Component Comment: Designator=VT2 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VT8 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VT13 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VCC29 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC31 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC35 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC36 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC39 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC40 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC45 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC49 Old Comment=5V New Comment=2V
+Change Component Comment: Designator=VCC1 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC3 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC4 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC5 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC8 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC10 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC11 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC12 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC13 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC22 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC25 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC26 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC27 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC28 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC30 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC32 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC33 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC34 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC37 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC38 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC41 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC42 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC43 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC44 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC50 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=VCC14 Old Comment=5V New Comment=12V
+Change Component Comment: Designator=VCC17 Old Comment=5V New Comment=12V
+Change Component Comment: Designator=VCC19 Old Comment=5V New Comment=12V
+Change Component Comment: Designator=GND31 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND33 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND34 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND35 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND38 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND39 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND41 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND42 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND44 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND49 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND56 Old Comment=GND New Comment=AGND
+Change Component Comment: Designator=GND57 Old Comment=GND New Comment=AGND
