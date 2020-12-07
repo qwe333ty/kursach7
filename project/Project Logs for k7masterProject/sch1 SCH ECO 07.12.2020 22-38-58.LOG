@@ -1,0 +1,48 @@
+Remove Pin=DA2D-27 From Net=DVI_SDA
+Remove Pin=DA2D-28 From Net=DVI_SCL
+Remove Pin=DD1-23 From Net=BO5
+Remove Pin=X3-1 From Net=SDA
+Remove Pin=X3-4 From Net=SCL
+Change Component Footprint: Designator=DA1 Old Footprint=IC103_2 New Footprint=IC103
+Change Component Footprint: Designator=DA6 Old Footprint=IC103_2 New Footprint=IC103
+Change Component Footprint: Designator=X3 Old Footprint=J102 New Footprint=BUSES
+Change Component Comment: Designator=VD1 Old Comment=* New Comment=Diode 1
+Change Component Comment: Designator=VD4 Old Comment=* New Comment=Diode 1
+Change Component Comment: Designator=VT2 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VT8 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VT13 Old Comment=* New Comment=MOP TRANSISTOR
+Change Component Comment: Designator=VCC1 Old Comment=5V New Comment=3V
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Comment: Designator=DA8 Old Comment=OMG New Comment=*
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=C76 NewDesignator=C75
+Change Component Designator: OldDesignator=C77 NewDesignator=C76
+Change Component Designator: OldDesignator=R127 NewDesignator=R129
+Change Component Designator: OldDesignator=R128 NewDesignator=R127
+Change Component Designator: OldDesignator=R129 NewDesignator=R128
+Change Component Designator: OldDesignator=R130 NewDesignator=R132
+Change Component Designator: OldDesignator=R131 NewDesignator=R130
+Change Component Designator: OldDesignator=R132 NewDesignator=R131
+Change Component Designator: OldDesignator=R133 NewDesignator=R135
+Change Component Designator: OldDesignator=R134 NewDesignator=R133
+Change Component Designator: OldDesignator=R135 NewDesignator=R134
+Change Component Designator: OldDesignator=R136 NewDesignator=R137
+Change Component Designator: OldDesignator=R137 NewDesignator=R136
+Change Component Designator: OldDesignator=R138 NewDesignator=R139
+Change Component Designator: OldDesignator=R139 NewDesignator=R138
+Change Component Designator: OldDesignator=VCC1 NewDesignator=VCC27
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD4
+Change Component Designator: OldDesignator=X2 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X9
+Change Component Designator: OldDesignator=X5 NewDesignator=X11
+Change Component Designator: OldDesignator=X6 NewDesignator=X12
+Add Pin To Net: Pin=DD1-23 Old Net=BO5 New Net=BO4
+Add Pin To Net: Pin=X3-1 Old Net=SDA New Net=RO0
+Add Pin To Net: Pin=X3-4 Old Net=SCL New Net=RO3
